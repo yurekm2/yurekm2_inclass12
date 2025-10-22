@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+header {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .Members {
   display: flex;
   flex-direction: column;
