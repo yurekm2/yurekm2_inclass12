@@ -5,6 +5,9 @@
 }
 
 header {
+  margin: 0px;
+  background-color: orange;
+  color: white;
   display: flex;
   justify-content: flex-end;
 }
