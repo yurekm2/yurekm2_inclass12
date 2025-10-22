@@ -1,11 +1,17 @@
 *{
-  margin: 20px;
-  padding: 10px;
+  margin: 10px;
+  padding: 5px;
   box-sizing: border-box;
 }
 
 .Members {
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
+}
+
+.Work {
+  display: flex;
+  flex-direction: row;
   justify-content: space-around;
 }
