@@ -6,8 +6,8 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 header {
@@ -23,7 +23,7 @@ header {
   display: flex;
   flex-direction: column;
   padding: 4rem 2rem;
-  background-color: white;
+  background-color: lightgray;
 }
 
 .Intro h1 {
