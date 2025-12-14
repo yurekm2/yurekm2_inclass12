@@ -6,16 +6,17 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: black;
+  color: white;
 }
 
 header {
-  margin: 0px;
   background-color: orange;
   color: white;
+  align-items: center;
+  padding: 1.5rem;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
 }
 
 .Members {
