@@ -57,6 +57,24 @@ header {
   font-weight: bold;
 }
 
+.Max {
+  background-image: url("./assets/image.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.Mula {
+  background-image: url("https://www.collater.al/wp-content/uploads/2024/09/img029-675x1024.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.Sosa {
+  background-image: url("https://s.yimg.com/ny/api/res/1.2/AGZl.8oRShGELiqyTqeY8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD0xODYzO2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/ca89f6e0-384a-11f0-9f55-f09d4d76d9a4");
+  background-size: cover;
+  background-position: center;
+}
+
 .Work {
   padding: 4rem 2rem;
   background-color: white;
