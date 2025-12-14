@@ -37,7 +37,7 @@ header {
 
 .Team {
   padding: 4rem 2rem;
-  background-color: #ffffff;
+  background-color: black;
 }
 
 .Members {
@@ -57,9 +57,23 @@ header {
   font-weight: bold;
 }
 
+.Work {
+  padding: 4rem 2rem;
+  background-color: #eaeaea;
+}
 
 .Items {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  gap: 1.5rem;
+  margin-top: 2rem;
 }
+
+.Items div {
+  flex: 1;
+  height: 150px;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
