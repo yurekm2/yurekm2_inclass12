@@ -48,12 +48,12 @@ header {
 }
 
 .Members div {
-  width: 150px;
-  height: 150px;
+  width: 300px;
+  height: 220px;
   background-color: lightgray;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   font-weight: bold;
   color: white;
 }
@@ -93,7 +93,7 @@ header {
   background-color: lightgray;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   color: white;
 }
 
