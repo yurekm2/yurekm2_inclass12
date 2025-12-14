@@ -94,6 +94,25 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
+}
+
+.One {
+  background-image: url("https://scene7.zumiez.com/is/image/zumiez/product_main_medium/Cookies-x-Glo-Gang-Sun-C-Bite-Black-Zip-Hoodie-_399409.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.Two {
+  background-image: url("https://i1.sndcdn.com/artworks-5LkW3lXxGkEY-0-t500x500.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.Three {
+  background-image: url("https://glogangworldwide.com/cdn/shop/files/8B6A6417.jpg?v=1756490245&width=1100");
+  background-size: cover;
+  background-position: center;
 }
 
 footer {
