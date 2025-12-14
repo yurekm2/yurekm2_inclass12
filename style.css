@@ -35,11 +35,28 @@ header {
   max-width: 600px;
 }
 
+.Team {
+  padding: 4rem 2rem;
+  background-color: #ffffff;
+}
+
 .Members {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  gap: 1.5rem;
+  margin-top: 2rem;
 }
+
+.Members div {
+  width: 150px;
+  height: 150px;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
 
 .Items {
   display: flex;
