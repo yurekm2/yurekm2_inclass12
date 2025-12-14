@@ -77,3 +77,36 @@ header {
   justify-content: center;
 }
 
+footer {
+  background-color: black;
+  color: white;
+  padding: 2rem;
+}
+
+.Links {
+  display: flex;
+  gap: 1rem;
+}
+
+.Links a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.8rem;
+}
+
+.ButtonCopyright {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.Button {
+  padding: 0.75rem 1.25rem;
+  background-color: orange;
+  color: white;
+}
+
+.Copyright {
+  font-size: 0.75rem;
+}
