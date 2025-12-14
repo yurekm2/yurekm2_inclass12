@@ -52,8 +52,8 @@ header {
   height: 220px;
   background-color: lightgray;
   display: flex;
-  align-items: center;
-  justify-content: flex-end;
+  align-items: flex-end;
+  justify-content: center;
   font-weight: bold;
   color: white;
 }
@@ -92,8 +92,8 @@ header {
   height: 150px;
   background-color: lightgray;
   display: flex;
-  align-items: center;
-  justify-content: flex-end;
+  align-items: flex-end;
+  justify-content: center;
   color: white;
 }
 
