@@ -95,6 +95,7 @@ header {
   align-items: flex-end;
   justify-content: center;
   color: white;
+  font-weight: bold;
 }
 
 .One {
